@@ -5,7 +5,7 @@ A clean and interactive card-flip experience built using HTML, CSS, and JavaScri
 Each card flips on click to reveal a meaningful life lesson, quote, or motivational message.
 
 🔗 Live Demo
-
+ https://ajnuu.github.io/playing-cards/
 
 📸 Preview
 ![Preview](./screenshot1.png)
@@ -13,9 +13,7 @@ Each card flips on click to reveal a meaningful life lesson, quote, or motivatio
 🛠 Tech Stack
 
 HTML5
-
 CSS3
-
 JavaScript
 
 📂 Project Structure
