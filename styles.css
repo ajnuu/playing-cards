@@ -115,3 +115,13 @@ transform:rotate(180deg);
   text-align: center;
   padding: 20px;
 }
+.subtitle {
+  text-align: center;
+  font-size: 22px;
+  color: #ffffffc9;
+  margin-top: -10px;
+  margin-bottom: 40px;
+  letter-spacing: 1px;
+  font-weight: 300;
+}
+
